@@ -11,3 +11,9 @@
 import pygame
 pygame.init()
 ```
+
+### To-Do List
+- [x] Create Github account
+- [x] Take Github course
+- [ ] Make a portfolio
+- [ ] Host on GitHub pages
