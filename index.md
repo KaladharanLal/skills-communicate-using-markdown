@@ -6,3 +6,8 @@
 ###### Heading 6
 
 ![Image from backside of a supercar](https://i.pinimg.com/736x/bc/8c/73/bc8c73ba7185375ce92b72f0617e8c96.jpg)
+
+```python
+import pygame
+pygame.init()
+```
